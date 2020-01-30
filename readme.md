@@ -7,3 +7,4 @@
 fix conflict, 即将产生一个新的merge commit
 master继续演进
 feature2 diverge here
+feature2 continue, master stays
